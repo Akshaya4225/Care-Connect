@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+dataset/
+models/*.keras
+models/*.h5
+models/*.json
+!models/.gitkeep
